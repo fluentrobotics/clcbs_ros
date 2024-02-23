@@ -20,7 +20,7 @@ find_package(Boost 1.58 REQUIRED COMPONENTS program_options)
 find_package(PkgConfig)
 pkg_check_modules(YamlCpp yaml-cpp)
 
-find_package(OMPL REQUIRED)
+find_package(ompl REQUIRED)
 
 add_message_files(
   FILES
