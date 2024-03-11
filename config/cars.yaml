@@ -1,14 +1,14 @@
 car1:
-    name: "car1"
+    name: "mushr1"
     color: "0000FF" #blue
 car2:
-    name: "car2"
+    name: "mushr2"
     color: "00FF00" #green
 car3:
-    name: "car3"
+    name: "mushr3"
     color: "FF0000" #red
 car4:
-    name: "car4"
+    name: "mushr4"
     color: "800080" #purple
 car5:
     name: "car5"
